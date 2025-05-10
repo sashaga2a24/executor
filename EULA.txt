@@ -1,13 +1,13 @@
 **END USER LICENSE AGREEMENT (EULA)**  
 **Comet Remake Roblox Executor**  
 
-_Last Updated: 22.03.2025_
+_Last Updated: 10.05.2025_
 ---  
 
 **IMPORTANT – READ CAREFULLY**  
 By installing or using this Software, you acknowledge and agree that your Roblox account could be permanently terminated as a result of using this Software. The Developer holds no responsibility for any actions taken against your account.
 
-This End User License Agreement Comet Remake is a legal contract between you user and Tacocatt (Oleksandr) that governs your use of the software known as "Comet Remake Roblox Executor" ("Software"). By downloading, installing, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree, do not install or use the Software.
+This End User License Agreement Comet Remake is a legal contract between you user and Tacocatt (Oleksandr) that governs your use of the software known as "Comet Remake Roblox Executor". By downloading, installing, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree, do not install or use the Software.
 
 ---
 ## 1. **DISCLAIMER OF LIABILITY**
@@ -34,14 +34,13 @@ You agree **NOT** to:
 - Modify, reverse engineer, decompile, or disassemble the Software.
 - Use the Software for illegal, malicious, or unauthorized purposes, including but not limited to circumventing security controls or interfering with Roblox's terms of service.
 - Share, sell, distribute, or sublicense the Software to others.
-- Use the Software to exploit, cheat, or sabotage Roblox services in a manner that violates Roblox's policies.
 - Remove, obliterate, or alter any copyright, trademark, or proprietary notices in the Software.
 
 Any violation of these restrictions will result in **immediate termination** of this license and potential legal action.
 
 ---
 ## 6. **GOVERNING LAW**
-This Agreement shall be governed by and construed in accordance with the laws of [Your Country/State]. Any dispute under this Agreement shall be subject to the exclusive jurisdiction of the courts of [Your Country/State].
+This Agreement shall be governed by and construed in accordance with the laws of Ukraine. Any dispute under this Agreement shall be subject to the exclusive jurisdiction of the courts of Ukraine.
 
 ---
 
